@@ -1,0 +1,15 @@
+{
+  "stylesheets": [
+    "/css/demo.css"
+  ],
+  "templates": [
+    {
+      "name": "Hello word (demo do not use)",
+      "type": "nunjucks",
+      "path": "/templates/hello.njk"
+    }
+  ],
+  "nunjucksPaths": [
+    "/nunjucks"
+  ]
+}
